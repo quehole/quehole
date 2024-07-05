@@ -2,8 +2,8 @@
 
 <div align="center">
   <h3>Contact Information</h3>
-  <a href="https://discord.com/users/794143054117601310" target="_blank"><img src="https://img.shields.io/badge/Discord-quehole%23794143054117601310-555555?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/6kko55cnc7uj7uw017830ddjr" target="_blank"><img src="https://img.shields.io/badge/Spotify-Open-555555?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://discord.com/users/794143054117601310" target="_blank"><img src="https://img.shields.io/badge/Discord-quehole-555555?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/queholes" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@quehole" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://github.com/quehole" target="_blank"><img src="https://img.shields.io/badge/GitHub-Visit-555555?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
