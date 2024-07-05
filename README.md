@@ -23,7 +23,7 @@
   <h3>GitHub Stats</h3>
   <img src="https://komarev.com/ghpvc/?username=quehole&label=Profile+Views&color=555555&style=flat-square">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=quehole&count_private=true&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=quehole&count_private=true&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&hide_border=true&cache=none" width="100%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quehole&layout=compact&theme=nord&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quehole&layout=compact&theme=nord&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&hide_border=true&cache=none" width="100%">
 </div>
