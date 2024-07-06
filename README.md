@@ -1,4 +1,4 @@
-[![quehole](https://media.discordapp.net/attachments/1199399031512764617/1259010203421249546/Picsart_24-07-06_10-55-14-372.png?ex=668a201f&is=6688ce9f&hm=11d3875e9c45bdd37e003e3c81d23584981b776cebe81dc7850f4c92a2e0126f&)](https://discord.com/users/794143054117601310)
+[![quehole](https://media.discordapp.net/attachments/1199399031512764617/1259041172983123990/GitHub.png?ex=668a3cf7&is=6688eb77&hm=f1d12438d133b1f312128990c87a97042a3c7a5dea8f731e188eb7413d2392c6&)](https://discord.com/users/794143054117601310)
 
 <div align="center">
   <h3>Contact Information</h3>
