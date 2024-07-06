@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-1.60-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-Markup-555555?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-Styles-555555?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-8-555555?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-8-555555?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
 <div align="center">
