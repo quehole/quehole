@@ -1,4 +1,4 @@
-[![quehole](https://media.discordapp.net/attachments/1199399031512764617/1250691346038128662/rulerbanner.jpg?ex=668834d5&is=6686e355&hm=3819a7b6b38b07cab994f8ff92d1d012f3995df81b437b404feeaa9a14f88317&)](https://discord.com/users/794143054117601310)
+[![quehole]([https://media.discordapp.net/attachments/1199399031512764617/1250691346038128662/rulerbanner.jpg?ex=668834d5&is=6686e355&hm=3819a7b6b38b07cab994f8ff92d1d012f3995df81b437b404feeaa9a14f88317&](https://media.discordapp.net/attachments/1199399031512764617/1259010203421249546/Picsart_24-07-06_10-55-14-372.png?ex=668a201f&is=6688ce9f&hm=11d3875e9c45bdd37e003e3c81d23584981b776cebe81dc7850f4c92a2e0126f&))](https://discord.com/users/794143054117601310)
 
 <div align="center">
   <h3>Contact Information</h3>
