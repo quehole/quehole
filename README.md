@@ -11,6 +11,7 @@
 <div align="center">
   <h3>Languages and Tools</h3>
   <img src="https://img.shields.io/badge/JavaScript-ES6-555555?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-4.x-555555?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-14.x-555555?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3.x-555555?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Discord.Js-13.x-555555?style=for-the-badge&logo=discord&logoColor=white">
