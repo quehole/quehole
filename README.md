@@ -5,7 +5,7 @@
   <a href="https://discord.com/users/794143054117601310" target="_blank"><img src="https://img.shields.io/badge/Discord-quehole-555555?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/queholes" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@quehole" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://github.com/quehole" target="_blank"><img src="https://img.shields.io/badge/GitHub-Visit-555555?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitch.tv/rulerxdd" target="_blank"><img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
 <div align="center">
