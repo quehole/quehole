@@ -2,7 +2,7 @@
 
 </div>
 <br> 
-<a href="https://discord.com/users/794143054117601310"><img src="https://lanyard.cnrad.dev/api/1159219760836395079?hideTimestamp=true&idleMessage=I%27ve%20got%20nothing%20to%20do%21%21" align="center"/></a
+<a href="https://discord.com/users/794143054117601310"><img src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I%27ve%20got%20nothing%20to%20do%21%21" align="center"/></a
 
 <div align="center">
   <h3>Contact Information</h3>
