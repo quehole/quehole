@@ -18,25 +18,48 @@
 
 <div align="center">
 
-<h3>Contact Information</h3>
+## About Me
 
-<a href="https://discord.com/users/794143054117601310" target="_blank">
+Full-Stack developer focused on building web applications, Discord bots, automation, and custom tools.
+
+</div>
+
+<br>
+
+<div align="center">
+
+## What I Do
+
+💻 **Full-Stack Development** &nbsp; • &nbsp;
+🤖 **Discord Bot Development** &nbsp; • &nbsp;
+🌐 **Web Development** &nbsp; • &nbsp;
+🛠️ **Automation & Tools**
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Contact Information
+
+<a href="https://discord.com/users/794143054117601310">
   <img src="https://img.shields.io/badge/Discord-quehole-555555?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/queholes" target="_blank">
+<a href="https://www.instagram.com/queholes">
   <img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://www.youtube.com/@quehole" target="_blank">
+<a href="https://www.youtube.com/@quehole">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://twitch.tv/quehole" target="_blank">
+<a href="https://twitch.tv/quehole">
   <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-<a href="https://paypal.me/rulerxd" target="_blank">
+<a href="https://paypal.me/rulerxd">
   <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 
@@ -46,17 +69,28 @@
 
 <div align="center">
 
-<h3>Languages and Tools</h3>
+## Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-ES6-555555?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-4.x-555555?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-14.x-555555?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3.x-555555?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Discord.Js-13.x-555555?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-1.60-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-Markup-555555?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-Styles-555555?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Java-8-555555?style=for-the-badge&logo=openjdk&logoColor=white">
+### Languages
+
+<img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white">
+
+### Backend & Frameworks
+
+<img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.js-555555?style=for-the-badge&logo=discord&logoColor=white">
+
+### Web
+
+<img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white">
+
+### Tools
+
+<img src="https://img.shields.io/badge/VS%20Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
 
@@ -64,7 +98,27 @@
 
 <div align="center">
 
-<h3>GitHub Stats</h3>
+## Featured Projects
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Project%201-View%20Project-555555?style=for-the-badge">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Project%202-View%20Project-555555?style=for-the-badge">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Project%203-View%20Project-555555?style=for-the-badge">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## GitHub Stats
 
 <img src="https://komarev.com/ghpvc/?username=quehole&label=Profile+Views&color=555555&style=flat-square">
 
@@ -81,6 +135,8 @@
 <br>
 
 <div align="center">
+
+### Thanks for visiting! 👋
 
 📧 **quehole13@gmail.com**
 
