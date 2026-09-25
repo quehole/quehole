@@ -59,10 +59,6 @@ Full-Stack developer focused on building web applications, Discord bots, automat
   <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-<a href="https://paypal.me/rulerxd">
-  <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
-
 </div>
 
 <br>
