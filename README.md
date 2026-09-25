@@ -1,19 +1,41 @@
 # [![quehole](https://images.guns.lol/bb3d8f4ca717fa6e0192433903bcef69b8d392a0/RUngNc.jpg)](https://discord.com/users/794143054117601310)
 
+<div align="center">
+
+  <a href="https://discord.com/users/794143054117601310">
+    <img src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I%27ve%20got%20nothing%20to%20do%21%21">
+  </a>
+
 </div>
-<br> 
-<a href="https://discord.com/users/794143054117601310"><img src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I%27ve%20got%20nothing%20to%20do%21%21" align="center"/></a
+
+<br>
 
 <div align="center">
   <h3>Contact Information</h3>
-  <a href="https://discord.com/users/794143054117601310" target="_blank"><img src="https://img.shields.io/badge/Discord-quehole-555555?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.instagram.com/queholes" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/@quehole" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://twitch.tv/quehole" target="_blank"><img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white"></a>
+
+  <a href="https://discord.com/users/794143054117601310" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-quehole-555555?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/queholes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.youtube.com/@quehole" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <a href="https://twitch.tv/quehole" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+
 </div>
+
+<br>
 
 <div align="center">
   <h3>Languages and Tools</h3>
+
   <img src="https://img.shields.io/badge/JavaScript-ES6-555555?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-4.x-555555?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-14.x-555555?style=for-the-badge&logo=node.js&logoColor=white">
@@ -23,13 +45,22 @@
   <img src="https://img.shields.io/badge/HTML5-Markup-555555?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-Styles-555555?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Java-8-555555?style=for-the-badge&logo=openjdk&logoColor=white">
+
 </div>
+
+<br>
 
 <div align="center">
   <h3>GitHub Stats</h3>
+
   <img src="https://komarev.com/ghpvc/?username=quehole&label=Profile+Views&color=555555&style=flat-square">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=quehole&count_private=true&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&hide_border=true&cache=none" width="100%">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quehole&layout=compact&theme=nord&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&hide_border=true&cache=none" width="100%">
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=quehole&count_private=true&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&hide_border=true">
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quehole&layout=compact&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&hide_border=true">
+
 </div>
