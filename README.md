@@ -98,18 +98,10 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 
 <div align="center">
 
-## Featured Projects
+## Buy me a Coffee
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Project%201-View%20Project-555555?style=for-the-badge">
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Project%202-View%20Project-555555?style=for-the-badge">
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Project%203-View%20Project-555555?style=for-the-badge">
+<a href="https://paypal.me/rulerxd">
+  <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 
 </div>
