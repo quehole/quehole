@@ -1,4 +1,4 @@
-# [![quehole]([https://mommy.pics/RUngNc.jpg(https://discord.com/users/794143054117601310)]
+# [![quehole](https://mommy.pics/RUngNc.jpg)](https://discord.com/users/794143054117601310)
 
 </div>
 <br> 
