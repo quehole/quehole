@@ -18,21 +18,16 @@
 
 <div align="center">
 
-## About Me
+## About
 
-Full-Stack developer focused on building web applications, Discord bots, automation, and custom tools.
-
-</div>
+Full-Stack developer focused on building web applications, Discord bots, automation, and custom tools.<br>
+I enjoy turning ideas into practical projects and experimenting with different technologies to make things work.
 
 <br>
 
-<div align="center">
-
-## What I Do
-
-**Full-Stack Development** &nbsp; • &nbsp;
-**Discord Bot Development** &nbsp; • &nbsp;
-**Web Development** &nbsp; • &nbsp;
+**Full-Stack Development**   •  
+**Discord Bots**   •  
+**Web Development**   •  
 **Automation & Tools**
 
 </div>
@@ -41,7 +36,53 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 
 <div align="center">
 
-## Contact Information
+## Tech Stack
+
+<img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Discord.js-555555?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://img.shields.io/github/followers/quehole?style=for-the-badge&label=Followers" alt="Followers">
+<img src="https://img.shields.io/github/stars/quehole?style=for-the-badge&label=Stars" alt="Stars">
+<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
+
+<br><br>
+
+<table>
+<tr>
+<td>
+<img src="https://readme-stats-github.pages.dev/api?username=quehole&theme=dark">
+</td>
+<td>
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=quehole&theme=dark">
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Connect
 
 <a href="https://discord.com/users/794143054117601310">
   <img src="https://img.shields.io/badge/Discord-quehole-555555?style=for-the-badge&logo=discord&logoColor=white">
@@ -59,74 +100,12 @@ Full-Stack developer focused on building web applications, Discord bots, automat
   <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-## Tech Stack
-
-### Languages
-
-<img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white">
-
-### Backend & Frameworks
-
-<img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Discord.js-555555?style=for-the-badge&logo=discord&logoColor=white">
-
-### Web
-
-<img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white">
-
-### Tools
-
-<img src="https://img.shields.io/badge/VS%20Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-</div>
-
-<br>
-
-<div align="center">
-
-## GitHub Stats
-
-<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile+Views&color=555555&style=flat-square">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=quehole&count_private=true&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&hide_border=true">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quehole&layout=compact&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&hide_border=true">
-
-</div>
-
-<br>
-
-<div align="center">
-  
-## Donations/Payments
-
 <a href="https://paypal.me/rulerxd">
-  <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
+  <img src="https://img.shields.io/badge/Support%20Me-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-
-### Thanks for visiting!
-
-For any inquiry: **quehole13@gmail.com**
+**For any inquiry: [quehole13@gmail.com](mailto:quehole13@gmail.com)**
 
 </div>
