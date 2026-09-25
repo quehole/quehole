@@ -1,4 +1,4 @@
-# [![quehole](https://mommy.pics/RUngNc.jpg)](https://discord.com/users/794143054117601310)
+# [![quehole]([https://mommy.pics/RUngNc.jpg](https://cdn.discordapp.com/attachments/1255068049434742786/1552914124340731904/ChatGPT_Image_Sep_25_2026_11_21_20_AM-Picsart-BackgroundRemover_1.jpg?))](https://discord.com/users/794143054117601310)
 
 </div>
 <br> 
