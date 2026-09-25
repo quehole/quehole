@@ -6,8 +6,6 @@
 **I've been developing since 2021.**  
 **I'm the owner of SZH.**
 
-📧 **quehole13@gmail.com**
-
 <br>
 
 <a href="https://discord.com/users/794143054117601310">
@@ -35,6 +33,10 @@
 
   <a href="https://twitch.tv/quehole" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+
+  <a href="https://paypal.me/rulerxd" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
 
 </div>
@@ -70,5 +72,13 @@
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quehole&layout=compact&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&hide_border=true">
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **quehole13@gmail.com**
 
 </div>
