@@ -131,6 +131,6 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 
 ### Thanks for visiting!
 
-📧 - For any inquiry: **quehole13@gmail.com**
+For any inquiry: **quehole13@gmail.com**
 
 </div>
