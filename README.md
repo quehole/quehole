@@ -98,18 +98,6 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 
 <div align="center">
 
-## Buy me a Coffee
-
-<a href="https://paypal.me/rulerxd">
-  <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## GitHub Stats
 
 <img src="https://komarev.com/ghpvc/?username=quehole&label=Profile+Views&color=555555&style=flat-square">
