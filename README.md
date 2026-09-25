@@ -30,10 +30,10 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 
 ## What I Do
 
-💻 **Full-Stack Development** &nbsp; • &nbsp;
-🤖 **Discord Bot Development** &nbsp; • &nbsp;
-🌐 **Web Development** &nbsp; • &nbsp;
-🛠️ **Automation & Tools**
+**Full-Stack Development** &nbsp; • &nbsp;
+**Discord Bot Development** &nbsp; • &nbsp;
+**Web Development** &nbsp; • &nbsp;
+**Automation & Tools**
 
 </div>
 
@@ -129,7 +129,7 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 <div align="center">
 
 
-### Thanks for visiting! 👋
+### Thanks for visiting!
 
 📧 - For any inquiry: **quehole13@gmail.com**
 
