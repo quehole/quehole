@@ -1,4 +1,4 @@
-# [![quehole](https://cdn.discordapp.com/attachments/1255068049434742786/1552914124340731904/ChatGPT_Image_Sep_25_2026_11_21_20_AM-Picsart-BackgroundRemover_1.jpg?ex=6ab7577a&is=6ab605fa&hm=e8749700d702ec48914785b6b8caa8c01c84ed36149321f979abfe70c4345e5d&)](https://discord.com/users/794143054117601310)
+# [![quehole](https://images.guns.lol/bb3d8f4ca717fa6e0192433903bcef69b8d392a0/RUngNc.jpg)](https://discord.com/users/794143054117601310)
 
 </div>
 <br> 
