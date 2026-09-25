@@ -1,10 +1,18 @@
-# [![quehole](https://images.guns.lol/bb3d8f4ca717fa6e0192433903bcef69b8d392a0/RUngNc.jpg)](https://discord.com/users/794143054117601310)
-
 <div align="center">
 
-  <a href="https://discord.com/users/794143054117601310">
-    <img src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I%27ve%20got%20nothing%20to%20do%21%21">
-  </a>
+# quehole
+
+**I'm a 20 year old Full-Stack developer.**  
+**I've been developing since 2021.**  
+**I'm the owner of SZH.**
+
+📧 **quehole13@gmail.com**
+
+<br>
+
+<a href="https://discord.com/users/794143054117601310">
+  <img src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I%27ve%20got%20nothing%20to%20do%21%21">
+</a>
 
 </div>
 
