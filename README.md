@@ -127,9 +127,22 @@ Full-Stack developer focused on building web applications, Discord bots, automat
 <br>
 
 <div align="center">
+  
+## Donations/Payments
+
+<a href="https://paypal.me/rulerxd">
+  <img src="https://img.shields.io/badge/Donate-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
 
 ### Thanks for visiting! 👋
 
-📧 **quehole13@gmail.com**
+📧 - For any inquiry: **quehole13@gmail.com**
 
 </div>
