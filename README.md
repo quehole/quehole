@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝗾𝘂𝗲𝗵𝗼𝗹𝗲
+# Mohammad Abdullah
 
 ### 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
