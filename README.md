@@ -43,6 +43,7 @@ I enjoy turning ideas into practical projects and experimenting with different t
 <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Go-555555?style=for-the-badge&logo=openjdk&logoColor=white">
 
 <br>
 
