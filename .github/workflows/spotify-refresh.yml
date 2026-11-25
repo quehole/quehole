@@ -1,0 +1,86 @@
+
+name: Refresh Spotify Activity
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check Spotify activity
+        id: spotify
+        env:
+          DISCORD_USER_ID: "794143054117601310"
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          import urllib.request
+          from pathlib import Path
+
+          user_id = os.environ["DISCORD_USER_ID"]
+          url = f"https://api.lanyard.rest/v1/users/{user_id}"
+
+          with urllib.request.urlopen(url, timeout=15) as response:
+              data = json.loads(response.read())
+
+          presence = data.get("data", {})
+          spotify = presence.get("spotify") if presence.get("listening_to_spotify") else None
+          track = spotify.get("track_id") if spotify else "not-listening"
+
+          state_file = Path(".github/spotify-track.txt")
+          state_file.parent.mkdir(parents=True, exist_ok=True)
+
+          previous = state_file.read_text().strip() if state_file.exists() else ""
+
+          if track == previous:
+              print("Spotify track unchanged.")
+              with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+                  output.write("changed=false\n")
+              raise SystemExit(0)
+
+          state_file.write_text(track)
+
+          readme = Path("README.md")
+          content = readme.read_text()
+
+          image_url = "https://spotify-activity-mu.vercel.app/api/spotify"
+          new_url = f"{image_url}?v={int(time.time())}"
+
+          import re
+          updated, count = re.subn(
+              re.escape(image_url) + r"(?:\?[^\"\s)]*)?",
+              new_url,
+              content
+          )
+
+          if count == 0:
+              raise SystemExit("Spotify image URL not found in README.md")
+
+          readme.write_text(updated)
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+              output.write("changed=true\n")
+
+          print("Spotify activity changed. README refreshed.")
+          PY
+
+      - name: Commit updated README
+        if: steps.spotify.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/spotify-track.txt
+          git commit -m "chore: refresh Spotify activity"
+          git push
