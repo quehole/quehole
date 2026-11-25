@@ -68,6 +68,8 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 
 ## Tech Stack
 
+### Programming Languages
+
 <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white">
@@ -75,20 +77,73 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 <img src="https://img.shields.io/badge/C%23-555555?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Go-555555?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-555555?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-555555?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-555555?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-555555?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-555555?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-555555?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Basic-555555?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=postgresql&logoColor=white">
 
-<br>
+### Web Development & Frameworks
+
+<img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-555555?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-555555?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-555555?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-555555?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-555555?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+### Runtime & Libraries
 
 <img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Discord.js-555555?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+### Databases & Backend
+
+<img src="https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-555555?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-555555?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-555555?style=for-the-badge&logo=firebase&logoColor=white">
+
+### IDEs & Editors
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-555555?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-555555?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-555555?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/WebStorm-555555?style=for-the-badge&logo=webstorm&logoColor=white">
+<img src="https://img.shields.io/badge/Sublime%20Text-555555?style=for-the-badge&logo=sublimetext&logoColor=white">
+
+### Development Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-555555?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Android-555555?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-555555?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/npm-555555?style=for-the-badge&logo=npm&logoColor=white">
+
+### AI & Automation
+
+<img src="https://img.shields.io/badge/OpenAI-555555?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-555555?style=for-the-badge&logo=claude&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-555555?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-555555?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Actions-555555?style=for-the-badge&logo=githubactions&logoColor=white">
 
 </div>
 
@@ -100,24 +155,28 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 
 <img src="https://img.shields.io/github/followers/quehole?style=for-the-badge&label=Followers" alt="Followers">
 <img src="https://img.shields.io/github/stars/quehole?style=for-the-badge&label=Stars" alt="Stars">
-<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
-
+<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views"/>
 <br><br>
 
 <table>
 <tr>
 <td>
-<img src="https://readme-stats-github.pages.dev/api?username=quehole&theme=dark">
+<img src="https://readme-stats-github.pages.dev/api?username=quehole&theme=dark&hide_border=true">
 </td>
 <td>
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=quehole&theme=dark">
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=quehole&theme=dark&hide_border=true">
 </td>
 </tr>
 </table>
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quehole&theme=github-compact&hide_border=true" alt="Contribution Activity Graph">
+
 </div>
 
 <br>
+
 
 <div align="center">
 
