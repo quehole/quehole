@@ -44,6 +44,14 @@ Outside of development, I'm a **student and competitive gamer**. You'll probably
 
 ## Projects
 
+### **Creator & Developer of [Spotify Activity Card](https://github.com/quehole/spotify-activity)**
+
+Built in **2026**, **__Spotify Activity Card__** is a **live Spotify listening activity card that displays currently playing tracks, artists, album artwork, and playback progress directly on GitHub profiles. Powered by Discord presence through Lanyard, it dynamically generates high-quality PNG cards using Node.js, Sharp, and Resvg, with automatic content-based sizing and real-time updates.**
+
+### **Creator & Developer of [Fluxbox](https://szh-mail.vercel.app)**
+
+Built in **2026**, **__Fluxbox__** (originally SZH Mail) is a **free temporary communication platform offering disposable email addresses and one-time phone numbers. Users can receive emails and SMS messages through temporary inboxes, with support for multiple available countries and a simple, unified interface.**
+
 ### **Founder & Owner** of **FINDA**
 
 Founded in **2026**, **__FINDA__** is a **general-purpose online store bringing everyday essentials, creative DIY products, and games together.**
@@ -51,10 +59,6 @@ Founded in **2026**, **__FINDA__** is a **general-purpose online store bringing 
 ### **Owner of SZH Development**
 
 Founded in **2017**, **__SZH__** is a **digital services and development hub focused on cybersecurity, social media growth services, and custom development solutions.**
-
-### **Creator & Developer of [Fluxbox](https://szh-mail.vercel.app)**
-
-Built in **2026**, **__Fluxbox__** (originally SZH Mail) is a **free temporary communication platform offering disposable email addresses and one-time phone numbers. Users can receive emails and SMS messages through temporary inboxes, with support for multiple available countries and a simple, unified interface.**
 
 </div>
 
