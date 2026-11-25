@@ -134,8 +134,9 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 <img src="https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/PowerShell-555555?style=for-the-badge&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-555555?style=for-the-badge&logo=netlify&logoColor=white">
 <img src="https://img.shields.io/badge/npm-555555?style=for-the-badge&logo=npm&logoColor=white">
 
 ### AI & Automation
