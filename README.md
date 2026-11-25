@@ -195,7 +195,7 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 </a>
 
 <a href="https://paypal.me/rulerxd">
-  <img src="https://img.shields.io/badge/Support%20Me-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
+  <img src="https://img.shields.io/badge/PayPal-Support%20Me-555555?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 
 <br><br>
