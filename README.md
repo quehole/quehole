@@ -79,6 +79,7 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 <img src="https://img.shields.io/badge/Go-555555?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-555555?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-555555?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white">
 
 <br>
 
