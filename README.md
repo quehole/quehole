@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ## Mohammad Abdullah
@@ -7,24 +6,27 @@
 
 <br>
 
-**Full-Stack Development   •
-Artificial Intelligence   •
-Discord Bots   •
-Web Development   •
-Automation & Tools**
+**Full-Stack Development • Artificial Intelligence • Discord Bots • Web Development • Automation & Tools**
 
 <br>
 
 <a href="https://discord.com/users/794143054117601310">
-  <img src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I've%20got%20nothing%20to%20do!!" height="150">
+  <img
+    src="https://lanyard.cnrad.dev/api/794143054117601310?hideTimestamp=true&idleMessage=I've%20got%20nothing%20to%20do!!"
+    width="300"
+    alt="Discord Status">
 </a>
+&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/6kko55cnc7uj7uw017830ddjr">
-  <img src="https://spotify-activity-mu.vercel.app/api/spotify" height="150">
+  <img
+    src="https://spotify-activity-mu.vercel.app/api/spotify"
+    width="300"
+    alt="Spotify Listening Activity">
 </a>
-
-</div>
 
 <br>
+
+</div>
 
 
 <div align="center">
