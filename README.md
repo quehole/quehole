@@ -19,7 +19,7 @@
 &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/6kko55cnc7uj7uw017830ddjr">
   <img
-    src="https://spotify-activity-mu.vercel.app/api/spotify"
+    src="https://spotify-activity-mu.vercel.app/api/spotify?v=1795603214"
     width="300"
     alt="Spotify Listening Activity">
 </a>
