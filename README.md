@@ -34,7 +34,7 @@
 ## About
 
 
-I'm a **20-year-old developer** who enjoys building things, exploring new technologies, and figuring out how things work. Most of what I do revolves around **Full-Stack Development, Web Applications, Discord Bots, Automation, and Custom Tools**.
+I'm a developer who enjoys building things, exploring new technologies, and figuring out how things work. Most of what I do revolves around **Full-Stack Development, Web Applications, Discord Bots, Automation, and Custom Tools**.
 
 I like taking ideas and turning them into something real. Sometimes there's a plan behind a project, sometimes it's just a random thought followed by a *"why not?"*. Either way, I'm always experimenting, learning, and finding new things to build.
 
@@ -52,7 +52,7 @@ Built in **2026**, **__Spotify Activity Card__** is a **live Spotify listening a
 
 Built in **2026**, **__Fluxbox__** (originally SZH Mail) is a **free temporary communication platform offering disposable email addresses and one-time phone numbers. Users can receive emails and SMS messages through temporary inboxes, with support for multiple available countries and a simple, unified interface.**
 
-### **Founder & Owner** of **FINDA**
+### **Founder & Owner** of [FINDA](https://finda-store.vercel.app)
 
 Founded in **2026**, **__FINDA__** is a **general-purpose online store bringing everyday essentials, creative DIY products, and games together.**
 
@@ -155,7 +155,7 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 
 <img src="https://img.shields.io/github/followers/quehole?style=for-the-badge&label=Followers" alt="Followers">
 <img src="https://img.shields.io/github/stars/quehole?style=for-the-badge&label=Stars" alt="Stars">
-<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=555555&style=for-the-badge" alt="Profile views"/>
 <br><br>
 
 <table>
@@ -168,12 +168,6 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quehole&theme=github-compact&hide_border=true" alt="Contribution Activity Graph">
-
-</div>
 
 <br>
 
@@ -200,6 +194,12 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 
 <a href="https://paypal.me/rulerxd">
   <img src="https://img.shields.io/badge/Support%20Me-PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="mailto:quehole13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
