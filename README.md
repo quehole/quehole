@@ -132,6 +132,7 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 <img src="https://img.shields.io/badge/Android-555555?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=ios&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Arch%20Linux-555555?style=for-the-badge&logo=archlinux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/PowerShell-555555?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=postman&logoColor=white">
