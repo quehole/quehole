@@ -158,7 +158,7 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 
 <img src="https://img.shields.io/github/followers/quehole?style=for-the-badge&label=Followers" alt="Followers">
 <img src="https://img.shields.io/github/stars/quehole?style=for-the-badge&label=Stars" alt="Stars">
-<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=555555&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=quehole&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views"/>
 <br><br>
 
 <table>
@@ -184,25 +184,25 @@ Founded in **2017**, **__SZH__** is a **digital services and development hub foc
 </a>
 
 <a href="https://www.instagram.com/queholes">
-  <img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-Follow-555555?style=for-the-badge&logo=instagram&logoColor=pink">
 </a>
 
 <a href="https://www.youtube.com/@quehole">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-555555?style=for-the-badge&logo=youtube&logoColor=red">
 </a>
 
 <a href="https://twitch.tv/quehole">
-  <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=white">
+  <img src="https://img.shields.io/badge/Twitch-Follow-555555?style=for-the-badge&logo=twitch&logoColor=purple">
 </a>
 
 <a href="https://paypal.me/rulerxd">
-  <img src="https://img.shields.io/badge/PayPal-Support%20Me-555555?style=for-the-badge&logo=paypal&logoColor=white">
+  <img src="https://img.shields.io/badge/PayPal-Support%20Me-555555?style=for-the-badge&logo=paypal&logoColor=navy">
 </a>
 
 <br><br>
 
 <a href="mailto:quehole13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=for-the-badge&logo=gmail&logoColor=beige" alt="Email">
 </a>
 
 <br><br>
