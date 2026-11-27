@@ -53,7 +53,7 @@ Built in **2026**, **__Spotify Activity Card__** is a **live Spotify listening a
 
 Built in **2026**, **__Fluxbox__** (originally SZH Mail) is a **free temporary communication platform offering disposable email addresses and one-time phone numbers. Users can receive emails and SMS messages through temporary inboxes, with support for multiple available countries and a simple, unified interface.**
 
-### **Founder & Owner** of [FINDA](https://finda-store.vercel.app)
+### **Founder & Owner of FINDA**
 
 Founded in **2026**, **__FINDA__** is a **general-purpose online store bringing everyday essentials, creative DIY products, and games together.**
 
